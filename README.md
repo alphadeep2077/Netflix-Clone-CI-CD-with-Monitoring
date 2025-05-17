@@ -4,9 +4,9 @@ We will be deploying a Netflix clone. We will be using Jenkins as a CICD tool an
 
 ![Netflix clone](https://github.com/user-attachments/assets/823c18da-1f59-4abc-9f34-b320b66d2fdb)
 
-#Project Steps :-
+# Project Steps :-
 
-#Step 1: Launch an Ubuntu(22.04) T2 Large Instance 
+## Step 1: Launch an Ubuntu(22.04) T2 Large Instance 
 
 
 - Launch an Ubuntu(22.04) T2 Large Instance
@@ -14,7 +14,7 @@ We will be deploying a Netflix clone. We will be using Jenkins as a CICD tool an
 
 ![image](https://github.com/user-attachments/assets/b8419aac-343c-4b0f-b39e-bc3295463521)
 
-#Step 2 : Install Jenkins, Docker. Create a Sonarqube Container using Docker
+## Step 2 : Install Jenkins, Docker. Create a Sonarqube Container using Docker
 
 - Install Jenkins, Docker and Trivy
 - 2A — To Install Jenkins
