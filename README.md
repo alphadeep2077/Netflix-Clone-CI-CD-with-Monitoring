@@ -48,4 +48,8 @@ sudo chmod 777 jenkins.sh
 ./jenkins.sh    # this will installl jenkins
 ```
 
+- Once Jenkins is installed, you will need to go to your AWS EC2 Security Group and open Inbound Port 8080, since Jenkins works on Port 8080.
+- Now, grab your Public IP Address
+
+
 
